@@ -1,7 +1,7 @@
 //
 //  ScannerView.swift
 //  SpiritDetect Scanner Page
-//
+// Looking from PC
 //  Created by Larry Bonnette on 12/15/22.
 //
 
