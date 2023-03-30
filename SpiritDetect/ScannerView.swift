@@ -1,7 +1,7 @@
 //
 //  ScannerView.swift
 //  SpiritDetect Scanner Page
-//  This is the Scanner page
+//
 //  Created by Larry Bonnette on 12/15/22.
 //
 
