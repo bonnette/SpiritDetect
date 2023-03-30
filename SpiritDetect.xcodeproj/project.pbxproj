@@ -1,0 +1,436 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A7036559298C15DB004AD2C4 /* DevilMask.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7036558298C15DB004AD2C4 /* DevilMask.usdz */; };
+		A7037B0E298C23EE0038BA63 /* GstLantern.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7037B0D298C23EE0038BA63 /* GstLantern.usdz */; };
+		A703AE5F2985852B0071B23F /* ScaryPumpkin.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */; };
+		A703E666293E370A00302981 /* toy_biplane.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A703E665293E370A00302981 /* toy_biplane.usdz */; };
+		A70D3424293E712000FFE0AE /* toy_drummer.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A70D3423293E712000FFE0AE /* toy_drummer.usdz */; };
+		A736A3D8293E4B5F00EF6E04 /* Hero.aiff in Resources */ = {isa = PBXBuildFile; fileRef = A736A3D7293E4B5F00EF6E04 /* Hero.aiff */; };
+		A737724A293CF117008E4BFA /* toy_robot_vintage.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7377249293CF117008E4BFA /* toy_robot_vintage.usdz */; };
+		A73AB20F298AB23100AC53F6 /* SetupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73AB20E298AB23100AC53F6 /* SetupData.swift */; };
+		A746473A299156AA00DBA317 /* SpiritDetectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7464739299156AA00DBA317 /* SpiritDetectApp.swift */; };
+		A75C2030298825D50006881C /* SetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A75C202F298825D50006881C /* SetupView.swift */; };
+		A75DAC742987F5CB00E24A6F /* GstPump.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A75DAC732987F5CB00E24A6F /* GstPump.usdz */; };
+		A7639D38293CE2D800198B4D /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7639D37293CE2D800198B4D /* RootView.swift */; };
+		A7639D3C293CE2D900198B4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7639D3B293CE2D900198B4D /* Assets.xcassets */; };
+		A7639D3F293CE2D900198B4D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7639D3E293CE2D900198B4D /* Preview Assets.xcassets */; };
+		A7783F6C29B624EA00443666 /* DetectedGst.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7783F6B29B624EA00443666 /* DetectedGst.swift */; };
+		A797FC9D29856E4100C962E7 /* BlueEyeGst.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A797FC9C29856E4100C962E7 /* BlueEyeGst.usdz */; };
+		A797FC9F29856E6200C962E7 /* plainGst.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A797FC9E29856E6200C962E7 /* plainGst.usdz */; };
+		A7AC6F4C294B72FC000AED96 /* ARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7AC6F4B294B72FC000AED96 /* ARViewContainer.swift */; };
+		A7AC6F4E294B7525000AED96 /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7AC6F4D294B7525000AED96 /* ScannerView.swift */; };
+		A7E474CE294B9FF400C20949 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E474CD294B9FF400C20949 /* CameraView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A7036558298C15DB004AD2C4 /* DevilMask.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = DevilMask.usdz; sourceTree = "<group>"; };
+		A7037B0D298C23EE0038BA63 /* GstLantern.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = GstLantern.usdz; sourceTree = "<group>"; };
+		A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ScaryPumpkin.usdz; sourceTree = "<group>"; };
+		A703E665293E370A00302981 /* toy_biplane.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_biplane.usdz; sourceTree = "<group>"; };
+		A70D3423293E712000FFE0AE /* toy_drummer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_drummer.usdz; sourceTree = "<group>"; };
+		A736A3D7293E4B5F00EF6E04 /* Hero.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Hero.aiff; sourceTree = "<group>"; };
+		A7377249293CF117008E4BFA /* toy_robot_vintage.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = toy_robot_vintage.usdz; sourceTree = "<group>"; };
+		A73AB20E298AB23100AC53F6 /* SetupData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupData.swift; sourceTree = "<group>"; };
+		A7464739299156AA00DBA317 /* SpiritDetectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiritDetectApp.swift; sourceTree = "<group>"; };
+		A75C202F298825D50006881C /* SetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupView.swift; sourceTree = "<group>"; };
+		A75DAC732987F5CB00E24A6F /* GstPump.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = GstPump.usdz; sourceTree = "<group>"; };
+		A7639D32293CE2D800198B4D /* SpiritDetect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpiritDetect.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7639D37293CE2D800198B4D /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		A7639D3B293CE2D900198B4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A7639D3E293CE2D900198B4D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A7783F6B29B624EA00443666 /* DetectedGst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectedGst.swift; sourceTree = "<group>"; };
+		A797FC9C29856E4100C962E7 /* BlueEyeGst.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = BlueEyeGst.usdz; sourceTree = "<group>"; };
+		A797FC9E29856E6200C962E7 /* plainGst.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plainGst.usdz; sourceTree = "<group>"; };
+		A7AC6F4B294B72FC000AED96 /* ARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARViewContainer.swift; sourceTree = "<group>"; };
+		A7AC6F4D294B7525000AED96 /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
+		A7E474CD294B9FF400C20949 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A7639D2F293CE2D800198B4D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A703E667293E379F00302981 /* ThreeD */ = {
+			isa = PBXGroup;
+			children = (
+				A75DAC732987F5CB00E24A6F /* GstPump.usdz */,
+				A797FC9C29856E4100C962E7 /* BlueEyeGst.usdz */,
+				A797FC9E29856E6200C962E7 /* plainGst.usdz */,
+				A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */,
+				A7036558298C15DB004AD2C4 /* DevilMask.usdz */,
+				A7037B0D298C23EE0038BA63 /* GstLantern.usdz */,
+				A70D3423293E712000FFE0AE /* toy_drummer.usdz */,
+				A7377249293CF117008E4BFA /* toy_robot_vintage.usdz */,
+				A703E665293E370A00302981 /* toy_biplane.usdz */,
+			);
+			path = ThreeD;
+			sourceTree = "<group>";
+		};
+		A70D3422293E70D400FFE0AE /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				A736A3D7293E4B5F00EF6E04 /* Hero.aiff */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		A7639D29293CE2D800198B4D = {
+			isa = PBXGroup;
+			children = (
+				A7639D34293CE2D800198B4D /* SpiritDetect */,
+				A7639D33293CE2D800198B4D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A7639D33293CE2D800198B4D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A7639D32293CE2D800198B4D /* SpiritDetect.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A7639D34293CE2D800198B4D /* SpiritDetect */ = {
+			isa = PBXGroup;
+			children = (
+				A70D3422293E70D400FFE0AE /* Sounds */,
+				A703E667293E379F00302981 /* ThreeD */,
+				A7464739299156AA00DBA317 /* SpiritDetectApp.swift */,
+				A7AC6F4B294B72FC000AED96 /* ARViewContainer.swift */,
+				A7639D37293CE2D800198B4D /* RootView.swift */,
+				A7E474CD294B9FF400C20949 /* CameraView.swift */,
+				A7AC6F4D294B7525000AED96 /* ScannerView.swift */,
+				A7783F6B29B624EA00443666 /* DetectedGst.swift */,
+				A75C202F298825D50006881C /* SetupView.swift */,
+				A73AB20E298AB23100AC53F6 /* SetupData.swift */,
+				A7639D3B293CE2D900198B4D /* Assets.xcassets */,
+				A7639D3D293CE2D900198B4D /* Preview Content */,
+			);
+			path = SpiritDetect;
+			sourceTree = "<group>";
+		};
+		A7639D3D293CE2D900198B4D /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				A7639D3E293CE2D900198B4D /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A7639D31293CE2D800198B4D /* SpiritDetect */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A7639D42293CE2D900198B4D /* Build configuration list for PBXNativeTarget "SpiritDetect" */;
+			buildPhases = (
+				A7639D2E293CE2D800198B4D /* Sources */,
+				A7639D2F293CE2D800198B4D /* Frameworks */,
+				A7639D30293CE2D800198B4D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SpiritDetect;
+			productName = SpiritDetect;
+			productReference = A7639D32293CE2D800198B4D /* SpiritDetect.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A7639D2A293CE2D800198B4D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1410;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					A7639D31293CE2D800198B4D = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = A7639D2D293CE2D800198B4D /* Build configuration list for PBXProject "SpiritDetect" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A7639D29293CE2D800198B4D;
+			productRefGroup = A7639D33293CE2D800198B4D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A7639D31293CE2D800198B4D /* SpiritDetect */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A7639D30293CE2D800198B4D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7639D3F293CE2D900198B4D /* Preview Assets.xcassets in Resources */,
+				A7037B0E298C23EE0038BA63 /* GstLantern.usdz in Resources */,
+				A7639D3C293CE2D900198B4D /* Assets.xcassets in Resources */,
+				A7036559298C15DB004AD2C4 /* DevilMask.usdz in Resources */,
+				A703E666293E370A00302981 /* toy_biplane.usdz in Resources */,
+				A797FC9F29856E6200C962E7 /* plainGst.usdz in Resources */,
+				A797FC9D29856E4100C962E7 /* BlueEyeGst.usdz in Resources */,
+				A737724A293CF117008E4BFA /* toy_robot_vintage.usdz in Resources */,
+				A736A3D8293E4B5F00EF6E04 /* Hero.aiff in Resources */,
+				A75DAC742987F5CB00E24A6F /* GstPump.usdz in Resources */,
+				A70D3424293E712000FFE0AE /* toy_drummer.usdz in Resources */,
+				A703AE5F2985852B0071B23F /* ScaryPumpkin.usdz in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A7639D2E293CE2D800198B4D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7639D38293CE2D800198B4D /* RootView.swift in Sources */,
+				A746473A299156AA00DBA317 /* SpiritDetectApp.swift in Sources */,
+				A7AC6F4E294B7525000AED96 /* ScannerView.swift in Sources */,
+				A73AB20F298AB23100AC53F6 /* SetupData.swift in Sources */,
+				A7AC6F4C294B72FC000AED96 /* ARViewContainer.swift in Sources */,
+				A7783F6C29B624EA00443666 /* DetectedGst.swift in Sources */,
+				A75C2030298825D50006881C /* SetupView.swift in Sources */,
+				A7E474CE294B9FF400C20949 /* CameraView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		A7639D40293CE2D900198B4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A7639D41293CE2D900198B4D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A7639D43293CE2D900198B4D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SpiritDetect/Preview Content\"";
+				DEVELOPMENT_TEAM = K4E22MX9WD;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Need to store photo";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bubbles.SpiritDetect;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A7639D44293CE2D900198B4D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SpiritDetect/Preview Content\"";
+				DEVELOPMENT_TEAM = K4E22MX9WD;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Need to store photo";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.bubbles.SpiritDetect;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A7639D2D293CE2D800198B4D /* Build configuration list for PBXProject "SpiritDetect" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A7639D40293CE2D900198B4D /* Debug */,
+				A7639D41293CE2D900198B4D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A7639D42293CE2D900198B4D /* Build configuration list for PBXNativeTarget "SpiritDetect" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A7639D43293CE2D900198B4D /* Debug */,
+				A7639D44293CE2D900198B4D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A7639D2A293CE2D800198B4D /* Project object */;
+}

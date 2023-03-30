@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-karolina-grabowska-ONE-5422609.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
