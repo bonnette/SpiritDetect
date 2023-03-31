@@ -14,10 +14,12 @@ The app can then be used to take a photo of the ghost along with the "Narrator"s
 # When the app is first opened
 When the app is opened you are presented with the **Initial** "splash screen. 
 # Scanning for ghosts<br>
+
 <div>
 <img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/splash.jpeg" alt="Image" style="float:left;width:200px;">
 <img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/greenscan.jpeg" alt="Image" style="float:left;width:200px;">
 <img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/red_scan.jpeg" alt="Image" style="float:left;width:200px;">
+<img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/camerablue.jpeg" alt="Image" style="float:left;width:200px;">
 </div>
 
 On the initial splash screen you are presented with three buttons.<br>
