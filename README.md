@@ -1,16 +1,18 @@
 # Spirit Detector / Spook Camera
-The Spirit Detector application enables a user to pretend to be Ghost Hunters
+The Spirit Detector application enables a user to pretend to be a Ghost Hunter.
 <br><br>
 The user of the app is known as the "Narrator"
 <br>
-The app is used as a prop to support a fictional story that include ghosts.
-The app allows the "Narrator" to pretend to scan for ghosts within a physical space utilizing the Augmented Reality capabilities of the iPhone and this app.
-The "Narrator" spins a story about a ghost that will eventually end up in a photo with your children or friend.
-The app is designed for an apple iPhone 14 or newer and IOS 16 or newer. **<--- Maybe we should check**.
+The app is used as a prop to support a fictional story that include ghosts, spirits and other un-worldly entities.<br>
+The app supports the "Narrator"as he pretends to scan for ghosts within a physical space utilizing the Augmented Reality capabilities of the iPhone and this app.<br>
+The "Narrator" spins a story about an entity that will eventually end up in a photo with the "Narrators" children or friend.
+The app is designed for an apple iPhone 12 or newer and IOS 11 or newer.
 See a comprehensive list of supported devices here: https://www.apple.com/augmented-reality/ 
 The buttons in the app enable the "Narrator" to Scan, Locate, and capture a ghost or entity in a physical space on a horizontal surface.
 The app can then be used to take a photo of the ghost along with the "Narrator"s children or anyone else in the view finder.
 <br><br>
+# When the app is first opened
+When the app is opened you are presented with the **Initial** "splash screen. 
 # Scanning for ghosts<br>
 <div>
 <img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/splash.jpeg" alt="Image" style="float:left;width:200px;">
@@ -35,12 +37,15 @@ The "Narrator" should continue his story.<br>
 At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity is in the viewfinder. The scanner is no longer visable.<br>
 The "Narrator" should continue his story.<br> 
 
-Pressing the "Trash Can" button will release all of the ghosts caprured and restart the scanning session.<br><br><br>
+Pressing the "Trash Can" button will release all of the ghosts captured and restart the scanning session.<br><br><br>
 
-displays a ghost within the camera / scanner view finder.
-The "Show Entity" buttn is replaced by a camera shutter button. At this point the "Narrator" can instruct 
-a bystander where to position themselves for a photo of the bystander and the apparition.
+# Using the Camera
+After the "Narrator" has captured a ghost on the **Scanner** page The "Narrator" can use the back link near the top left of the page<br> 
+to return to the **Initial** splash screen. To use the camera the "Narrator" will choose and press the **Camera** button.<br>
+This button will take the "Narrator" to the camera page. This page displays the ghost that was captured in the cameras view finder.<br>
+The "Narrator" continues the story and invites anyone brave enough to step forward to have their picture taken with the apparition.<br>
+Whn the "Narrator" presses the shutter button at the bottom of the page, a photo is taken and placed in the phones photo gallery.<br>
 
-When the "Narrator" is finished with the camera he can press the "Restart Scan" button to take the "Narrator" back to the scanning page. 
+When the "Narrator" is finished with the camera he can press the **Back** link to take the "Narrator" back to the **Initial** page. 
 
 
