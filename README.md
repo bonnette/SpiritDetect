@@ -1,7 +1,7 @@
 # Spirit Detector / Spook Camera
 The Spirit Detector application enables a user to pretend to be a Ghost Hunter.
 <br><br>
-The user of the app is known as the "Narrator"
+The user of the app is known as the "Narrator".
 <br>
 The app is used as a prop to support a fictional story that include ghosts, spirits and other un-worldly entities.<br>
 The app supports the "Narrator"as he pretends to scan for ghosts within a physical space utilizing the Augmented Reality capabilities of the iPhone and this app.<br>
@@ -36,14 +36,14 @@ The "Narrator" moves the device slowly around the room. Carefully watching for t
 When it turns red the "Narrater" slows down and when the time is just right.... he presses the "Capture" button.<br>
 The "Narrator" should continue his story.<br> 
 
-At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity is in the viewfinder. The scanner is no longer visable.<br>
+At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity is in the viewfinder. The scanner is no longer visible.<br>
 The "Narrator" should continue his story.<br> 
 
 Pressing the "Trash Can" button will release all of the ghosts captured and restart the scanning session.<br><br>
 
 # Using the Camera
 
-After the "Narrator" has captured a ghost on the **Scanner** page The "Narrator" can use the back link near the top left of the page 
+After the "Narrator" has captured a ghost on the **Scanner** page. The "Narrator" can use the back link near the top left of the page 
 to return to the **Initial** splash screen. To use the camera the "Narrator" will choose and press the **Camera** button.<br>
 This button will take the "Narrator" to the camera page. The camera page displays the ghost that was captured on the scanner page, in the cameras view finder.<br>
 The "Narrator" continues the story and invites anyone brave enough to step forward to have their picture taken with the apparition.<br>
@@ -63,7 +63,7 @@ Th buttons on the setup page are used to select a ghost that will appear when th
 
 **Instructions:**<br>
 
-*Contrary to popular beliefs ghosts exsist everywhere but are most easily detected and captured in a well lit area with a flat surface such as a floor to stand on.*<br>
+*Contrary to popular beliefs ghosts exsist everywhere but are most easily detected and captured in a well lit area, with a flat surface, such as a floor to stand on.*<br>
 
 **The Story:**<br>
 I have been told by many people that a room in this building may be haunted.<br>
@@ -71,23 +71,23 @@ Now, I don't believe in the super natural but to be cautious I wrote an app for 
 can detect and capture invisable entities such as ghosts and gouls and spirits of all sorts.<br>
 Well... it doesn't actually caprure the ghost but it captures an image of the ghost <br>(and leaves the actual ghost to continue on its way.)
 So, no spiritual entities are harmed during the apps operation.<br>
-The other thing we can do with this app is take a photo of the spirit and we can even be part of the photo.<br>
+The other thing we can do with this app is take a photo of the spirit, and, we can even be part of the photo.<br>
 So, what to you guys think? Do you want to see if we can find a room with a ghost in it?
 
 **Instructions:**<br>
 
-*Hopefully your audience says yes and they enthusiastically follow you*<br>
-*You should now open the app and if you want a specific ghost to appear then go to the setup page and choose one*<br>
+*Hopefully your audience says yes and they enthusiastically follow you.*<br>
+*You should now open the app and if you want a specific ghost to appear, go to the setup page and choose one*<br>
 *Now press the scanner button on the initial page and hold the phone up and slowly move the phone around as if you are looking for*<br>
-*something. When you decide that you want a ghost to be detected, tilt the phone forward until a red indicator appears*<br><br>
-*When it comes time to capture a ghost, the capture button can be pressed even if the the scanner is green but be sure to point*<br>
-*the animating scanner icon at a level horizontal area such as a floor because a horizontal plane is needed to place the ghost in the frame,*<br>
-*and the ghost will appear near the center of the animating scanner icon*<br>
+*something. When you decide that you want a ghost to be detected, tilt the phone forward until a red indicator appears.*<br><br>
+*When it comes time to capture a ghost, the capture button can be pressed, even if the the scanner is green. But, be sure to point*<br>
+*the animating scanner icon at a level horizontal area such as a floor, because a horizontal plane is needed to place the ghost in the frame,*<br>
+*and the ghost will appear near the center of the animating scanner icon.*<br>
 
 **More Story:**<br>
 
 It looks like we have detected some sort of entity. Do you think we should try and capture it?<br>
-I am pressing the capture button. An, it looks like we have captured an enchanted devils mask.<br>
+I am pressing the capture button. And, it looks like we have captured an enchanted devils mask.<br>
 Does anyone dare to stand next to the mask and let me take a picture?<br>
 
 **Instructions:**<br>
