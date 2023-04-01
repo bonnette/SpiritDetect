@@ -12,7 +12,7 @@ The buttons in the app enable the "Narrator" to Scan, Locate, and capture a ghos
 The app can then be used to take a photo of the ghost along with the "Narrator"s children or anyone else in the view finder.
 <br><br>
 # When the app is first opened
-When the app is opened you are presented with the **Initial** "splash screen. 
+When the app is opened you are presented with the **Initial** "splash screen". 
 # Scanning for ghosts<br>
 
 <div>
@@ -30,7 +30,7 @@ The "Narrator" should use this opportunity to ham it up.
 
 # Capturing a ghost
 
-When the **Scanner** button is pressed The screen changes to the scanning page. This page has a single **Capture** button at the bottom. <br>
+When the **Scanner** button is pressed. The screen changes to the scanning page. This page has a single **Capture** button at the bottom. <br>
 
 The "Narrator" moves the device slowly around the room. Carefully watching for the scan indicator to turn RED.
 When it turns red the "Narrater" slows down and when the time is just right.... he presses the "Capture" button.<br>
@@ -45,8 +45,7 @@ Pressing the "Trash Can" button will release all of the ghosts captured and rest
 
 After the "Narrator" has captured a ghost on the **Scanner** page. The "Narrator" can use the back link near the top left of the page 
 to return to the **Initial** splash screen. To use the camera the "Narrator" will choose and press the **Camera** button.<br>
-This button will take the "Narrator" to the camera page. The camera page displays the ghost that was captured on the scanner page, in the cameras view finder.<br>
-The "Narrator" continues the story and invites anyone brave enough to step forward to have their picture taken with the apparition.<br>
+This button will take the "Narrator" to the camera page. The camera page displays the ghost that was captured on the scanner page, in the cameras view finder. The "Narrator" continues the story and invites anyone brave enough to step forward to have their picture taken with the apparition.<br>
 When the "Narrator" presses the shutter button at the bottom of the page, a photo is taken and placed in the phones photo gallery.<br>
 
 <div>
