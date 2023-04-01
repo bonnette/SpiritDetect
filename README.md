@@ -28,7 +28,7 @@ When a spirit is located the indicator will turn red and a ghost image will be i
 The "Narrator" should use this opportunity to ham it up. 
 
 
-# Capturing the ghost
+# Capturing a ghost
 
 When the **Scanner** button is pressed The screen changes to the scanning page. This page has a single **Capture** button at the bottom. <br>
 
@@ -39,15 +39,26 @@ The "Narrator" should continue his story.<br>
 At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity is in the viewfinder. The scanner is no longer visable.<br>
 The "Narrator" should continue his story.<br> 
 
-Pressing the "Trash Can" button will release all of the ghosts captured and restart the scanning session.<br><br><br>
+Pressing the "Trash Can" button will release all of the ghosts captured and restart the scanning session.<br><br>
 
 # Using the Camera
-After the "Narrator" has captured a ghost on the **Scanner** page The "Narrator" can use the back link near the top left of the page<br> 
+
+After the "Narrator" has captured a ghost on the **Scanner** page The "Narrator" can use the back link near the top left of the page 
 to return to the **Initial** splash screen. To use the camera the "Narrator" will choose and press the **Camera** button.<br>
-This button will take the "Narrator" to the camera page. This page displays the ghost that was captured in the cameras view finder.<br>
+This button will take the "Narrator" to the camera page. The camera page displays the ghost that was captured on the scanner page, in the cameras view finder.<br>
 The "Narrator" continues the story and invites anyone brave enough to step forward to have their picture taken with the apparition.<br>
-Whn the "Narrator" presses the shutter button at the bottom of the page, a photo is taken and placed in the phones photo gallery.<br>
+When the "Narrator" presses the shutter button at the bottom of the page, a photo is taken and placed in the phones photo gallery.<br>
 
-When the "Narrator" is finished with the camera he can press the **Back** link to take the "Narrator" back to the **Initial** page. 
+<div>
+<img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/splash.jpeg" alt="Image" style="float:left;width:200px;">
+<img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/setup.jpeg" alt="Image" style="float:left;width:200px;">
+</div>
 
+When the "Narrator" is finished with the camera he can press the **Back** link to take the "Narrator" back to the **Initial** page.<br> 
 
+The final button on the **Initial** splash page is the **Setup** button. Pressing this button takes the user to the setup page.<br>
+Th buttons on the setup page are used to select a ghost that will appear when the capture button is pressed on the scanner page.<br>
+
+# Sample Story
+
+I have been told by many people that this room that we are standing in is haunted.
