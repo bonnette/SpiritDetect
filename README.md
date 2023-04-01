@@ -61,4 +61,36 @@ Th buttons on the setup page are used to select a ghost that will appear when th
 
 # Sample Story
 
-I have been told by many people that this room that we are standing in is haunted.
+**Instructions:**<br>
+
+*Contrary to popular beliefs ghosts exsist everywhere but are most easily detected and captured in a well lit area with a flat surface such as a floor to stand on.*<br>
+
+**The Story:**<br>
+I have been told by many people that a room in this building may be haunted.<br>
+Now, I don't believe in the super natural but to be cautious I wrote an app for my phone that<br>
+can detect and capture invisable entities such as ghosts and gouls and spirits of all sorts.<br>
+Well... it doesn't actually caprure the ghost but it captures an image of the ghost <br>(and leaves the actual ghost to continue on its way.)
+So, no spiritual entities are harmed during the apps operation.<br>
+The other thing we can do with this app is take a photo of the spirit and we can even be part of the photo.<br>
+So, what to you guys think? Do you want to see if we can find a room with a ghost in it?
+
+**Instructions:**<br>
+
+*Hopefully your audience says yes and they enthusiastically follow you*<br>
+*You should now open the app and if you want a specific ghost to appear then go to the setup page and choose one*<br>
+*Now press the scanner button on the initial page and hold the phone up and slowly move the phone around as if you are looking for*<br>
+*something. When you decide that you want a ghost to be detected, tilt the phone forward until a red indicator appears*<br><br>
+*When it comes time to capture a ghost, the capture button can be pressed even if the the scanner is green but be sure to point*<br>
+*the animating scanner icon at a level horizontal area such as a floor because a horizontal plane is needed to place the ghost in the frame,*<br>
+*and the ghost will appear near the center of the animating scanner icon*<br>
+
+**More Story:**<br>
+
+It looks like we have detected some sort of entity. Do you think we should try and capture it?<br>
+I am pressing the capture button. An, it looks like we have captured an enchanted devils mask.<br>
+Does anyone dare to stand next to the mask and let me take a picture?<br>
+
+**Instructions:**<br>
+
+*Change to the camera page. Center your subjects with the ghost and press the shutter button*<br>
+*A photo will be taken and stored in the phones photo gallery*<br>
