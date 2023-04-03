@@ -16,6 +16,7 @@ struct SetupView: View {
     @EnvironmentObject var setupdata: SetupData  // The selected ghost will be stored here
     let GstSelect1 = ["GstPump", "BlueEyeGst", "plainGst"]
     let GstSelect2 = ["GstLantern", "ScaryPumpkin", "DevilMask"]
+    let GstSelect3 = ["dirtyghost", "ghostHoldPum", "reddemon"]
     var body: some View {
         
         NavigationStack {
@@ -38,6 +39,14 @@ struct SetupView: View {
                 Section {
                     Picker("Ghost Menu2", selection: $setupdata.ghostselected) {
                         ForEach(GstSelect2, id: \.self) {
+                            Text($0)
+                        }
+                    }
+                    .pickerStyle(.segmented)
+                }
+                Section {
+                    Picker("Ghost Menu3", selection: $setupdata.ghostselected) {
+                        ForEach(GstSelect3, id: \.self) {
                             Text($0)
                         }
                     }
