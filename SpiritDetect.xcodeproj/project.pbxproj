@@ -24,9 +24,9 @@
 		A7AC6F4E294B7525000AED96 /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7AC6F4D294B7525000AED96 /* ScannerView.swift */; };
 		A7E474CE294B9FF400C20949 /* CameraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7E474CD294B9FF400C20949 /* CameraView.swift */; };
 		F040912629DB2FAA00A102A4 /* SetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F040912529DB2FAA00A102A4 /* SetupView.swift */; };
-		F040912829DB2FCD00A102A4 /* reddemon.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F040912729DB2FCD00A102A4 /* reddemon.usdz */; };
 		F040912A29DB2FE100A102A4 /* dirtyghost.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F040912929DB2FE100A102A4 /* dirtyghost.usdz */; };
 		F040912C29DB2FEB00A102A4 /* ghostHoldPum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F040912B29DB2FEB00A102A4 /* ghostHoldPum.usdz */; };
+		F0E6D3C029DC6D66000CCFD7 /* reddemon.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F0E6D3BF29DC6D66000CCFD7 /* reddemon.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,9 +48,9 @@
 		A7AC6F4D294B7525000AED96 /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
 		A7E474CD294B9FF400C20949 /* CameraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraView.swift; sourceTree = "<group>"; };
 		F040912529DB2FAA00A102A4 /* SetupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetupView.swift; sourceTree = "<group>"; };
-		F040912729DB2FCD00A102A4 /* reddemon.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = reddemon.usdz; sourceTree = "<group>"; };
 		F040912929DB2FE100A102A4 /* dirtyghost.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = dirtyghost.usdz; sourceTree = "<group>"; };
 		F040912B29DB2FEB00A102A4 /* ghostHoldPum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ghostHoldPum.usdz; sourceTree = "<group>"; };
+		F0E6D3BF29DC6D66000CCFD7 /* reddemon.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = reddemon.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 				A7037B0D298C23EE0038BA63 /* GstLantern.usdz */,
 				F040912929DB2FE100A102A4 /* dirtyghost.usdz */,
 				F040912B29DB2FEB00A102A4 /* ghostHoldPum.usdz */,
-				F040912729DB2FCD00A102A4 /* reddemon.usdz */,
+				F0E6D3BF29DC6D66000CCFD7 /* reddemon.usdz */,
 			);
 			path = ThreeD;
 			sourceTree = "<group>";
@@ -190,7 +190,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7639D3F293CE2D900198B4D /* Preview Assets.xcassets in Resources */,
-				F040912829DB2FCD00A102A4 /* reddemon.usdz in Resources */,
 				A7037B0E298C23EE0038BA63 /* GstLantern.usdz in Resources */,
 				F040912A29DB2FE100A102A4 /* dirtyghost.usdz in Resources */,
 				A7639D3C293CE2D900198B4D /* Assets.xcassets in Resources */,
@@ -201,6 +200,7 @@
 				A75DAC742987F5CB00E24A6F /* GstPump.usdz in Resources */,
 				A703AE5F2985852B0071B23F /* ScaryPumpkin.usdz in Resources */,
 				F040912C29DB2FEB00A102A4 /* ghostHoldPum.usdz in Resources */,
+				F0E6D3C029DC6D66000CCFD7 /* reddemon.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
