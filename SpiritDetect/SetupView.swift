@@ -7,6 +7,7 @@
 //
 
 import SwiftUI
+import SceneKit
 
 
 struct SetupView: View {
@@ -55,5 +56,18 @@ struct SetupView: View {
             }
             .navigationTitle("Select your Ghost")
         }
+        
+        Spacer()
+        SceneView(
+            
+            scene: {
+                let holder = (setupdata.ghostselected + ".usdz")
+                let scene = SCNScene(named: holder)!
+                scene.background.contents = UIColor.black
+                return scene
+            }(),
+            options: [.autoenablesDefaultLighting,.allowsCameraControl]
+            )
+        .frame(width:300, height:300)
     }
 }
