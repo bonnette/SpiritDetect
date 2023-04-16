@@ -55,7 +55,7 @@ When the "Narrator" presses the shutter button at the bottom of the page, a phot
 When the "Narrator" is finished with the camera he can press the **Back** link or swipe right to take the "Narrator" back to the **Initial** page.<br> 
 
 The final button on the **Initial** splash page is the **Setup** button. Pressing this button takes the user to the setup page.<br>
-Th buttons on the setup page are used to select a ghost that will appear when the capture button is pressed on the scanner page.<br>
+The buttons on the setup page are used to select a ghost that will appear when the capture button is pressed on the scanner page.<br>
 
 # Sample Story
 
