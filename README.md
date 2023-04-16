@@ -6,8 +6,7 @@ The user of the app is known as the "Narrator".
 The app is used as a prop to support a fictional story that include ghosts, spirits and other un-worldly entities.<br>
 The app supports the "Narrator"as he pretends to scan for ghosts within a physical space utilizing the Augmented Reality capabilities of the iPhone and this app.<br>
 The "Narrator" spins a story about an entity that will eventually end up in a photo with the "Narrators" children or friend.
-The app is designed for an apple iPhone 12 or newer and IOS 11 or newer.
-See a comprehensive list of supported devices here: https://www.apple.com/augmented-reality/ 
+The app was tested on an apple iPhone 14 pro running IOS 16.1 but may work on an iPhone 12 or newer. The phone must support Apples Augmented reality.
 The buttons in the app enable the "Narrator" to Scan, Locate, and capture a ghost or entity in a physical space on a horizontal surface.
 The app can then be used to take a photo of the ghost along with the "Narrator"s children or anyone else in the view finder.
 <br><br>
@@ -36,14 +35,14 @@ The "Narrator" moves the device slowly around the room. Carefully watching for t
 When it turns red the "Narrater" slows down and when the time is just right.... he presses the "Capture" button.<br>
 The "Narrator" should continue his story.<br> 
 
-At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity is in the viewfinder. The scanner is no longer visible.<br>
+At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity appears in the viewfinder. The scanner is no longer visible.<br>
 The "Narrator" should continue his story.<br> 
 
 Pressing the "Trash Can" button will release all of the ghosts captured and restart the scanning session.<br><br>
 
 # Using the Camera
 
-After the "Narrator" has captured a ghost on the **Scanner** page. The "Narrator" can use the back link near the top left of the page 
+After the "Narrator" has captured a ghost on the **Scanner** page. The "Narrator" can use the back link near the top left of the page, or swipe right. 
 to return to the **Initial** splash screen. To use the camera the "Narrator" will choose and press the **Camera** button.<br>
 This button will take the "Narrator" to the camera page. The camera page displays the ghost that was captured on the scanner page, in the cameras view finder. The "Narrator" continues the story and invites anyone brave enough to step forward to have their picture taken with the apparition.<br>
 When the "Narrator" presses the shutter button at the bottom of the page, a photo is taken and placed in the phones photo gallery.<br>
@@ -53,7 +52,7 @@ When the "Narrator" presses the shutter button at the bottom of the page, a phot
 <img src="https://github.com/bonnette/SpiritDetect/blob/main/iPhoneImage/setup.jpeg" alt="Image" style="float:left;width:200px;">
 </div>
 
-When the "Narrator" is finished with the camera he can press the **Back** link to take the "Narrator" back to the **Initial** page.<br> 
+When the "Narrator" is finished with the camera he can press the **Back** link or swipe right to take the "Narrator" back to the **Initial** page.<br> 
 
 The final button on the **Initial** splash page is the **Setup** button. Pressing this button takes the user to the setup page.<br>
 Th buttons on the setup page are used to select a ghost that will appear when the capture button is pressed on the scanner page.<br>
