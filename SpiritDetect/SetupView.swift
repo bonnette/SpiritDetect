@@ -63,7 +63,7 @@ struct SetupView: View {
             scene: {
                 let holder = (setupdata.ghostselected + ".usdz")
                 let scene = SCNScene(named: holder)!
-                scene.background.contents = UIColor.black
+                scene.background.contents = UIColor.gray
                 return scene
             }(),
             options: [.autoenablesDefaultLighting,.allowsCameraControl]
