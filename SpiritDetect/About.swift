@@ -9,7 +9,22 @@ import SwiftUI
 
 struct About: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+
+        VStack{
+            Image("about")
+                .frame(width:120.0, height:120.0)
+                .cornerRadius(120) // Make the image frame round
+                .overlay(RoundedRectangle(cornerRadius: 100)
+                    .stroke(Color.teal, lineWidth: 4))
+            Text("Spirit Detect").font(.largeTitle)
+            Text("Version .1").font(.caption2)
+            Text("Author: Larry Bonnette").font(.caption2)
+            Text("Copyright 2023 Larry Bonnette ")
+            Spacer()
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .background(.gray)
+
     }
 }
 

@@ -43,7 +43,6 @@ struct RootView : View {
                             Image(systemName: "info.circle")
                                 .frame(width:30, height:30)
                                 .font(.title)
-                                .background(.blue.opacity(0.60))
                                 .cornerRadius(30)
                         })
                         
