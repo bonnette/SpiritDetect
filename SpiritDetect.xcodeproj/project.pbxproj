@@ -10,6 +10,7 @@
 		A7036559298C15DB004AD2C4 /* DevilMask.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7036558298C15DB004AD2C4 /* DevilMask.usdz */; };
 		A7037B0E298C23EE0038BA63 /* GstLantern.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7037B0D298C23EE0038BA63 /* GstLantern.usdz */; };
 		A703AE5F2985852B0071B23F /* ScaryPumpkin.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */; };
+		A714C71429ED6D99002EDBA0 /* About.swift in Sources */ = {isa = PBXBuildFile; fileRef = A714C71329ED6D99002EDBA0 /* About.swift */; };
 		A736A3D8293E4B5F00EF6E04 /* Hero.aiff in Resources */ = {isa = PBXBuildFile; fileRef = A736A3D7293E4B5F00EF6E04 /* Hero.aiff */; };
 		A73AB20F298AB23100AC53F6 /* SetupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73AB20E298AB23100AC53F6 /* SetupData.swift */; };
 		A746473A299156AA00DBA317 /* SpiritDetectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7464739299156AA00DBA317 /* SpiritDetectApp.swift */; };
@@ -33,6 +34,7 @@
 		A7036558298C15DB004AD2C4 /* DevilMask.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = DevilMask.usdz; sourceTree = "<group>"; };
 		A7037B0D298C23EE0038BA63 /* GstLantern.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = GstLantern.usdz; sourceTree = "<group>"; };
 		A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ScaryPumpkin.usdz; sourceTree = "<group>"; };
+		A714C71329ED6D99002EDBA0 /* About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About.swift; sourceTree = "<group>"; };
 		A736A3D7293E4B5F00EF6E04 /* Hero.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Hero.aiff; sourceTree = "<group>"; };
 		A73AB20E298AB23100AC53F6 /* SetupData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupData.swift; sourceTree = "<group>"; };
 		A7464739299156AA00DBA317 /* SpiritDetectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpiritDetectApp.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 			children = (
 				A70D3422293E70D400FFE0AE /* Sounds */,
 				A703E667293E379F00302981 /* ThreeD */,
+				A714C71329ED6D99002EDBA0 /* About.swift */,
 				A7464739299156AA00DBA317 /* SpiritDetectApp.swift */,
 				A7AC6F4B294B72FC000AED96 /* ARViewContainer.swift */,
 				A7639D37293CE2D800198B4D /* RootView.swift */,
@@ -218,6 +221,7 @@
 				A7AC6F4C294B72FC000AED96 /* ARViewContainer.swift in Sources */,
 				A7783F6C29B624EA00443666 /* DetectedGst.swift in Sources */,
 				F040912629DB2FAA00A102A4 /* SetupView.swift in Sources */,
+				A714C71429ED6D99002EDBA0 /* About.swift in Sources */,
 				A7E474CE294B9FF400C20949 /* CameraView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

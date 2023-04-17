@@ -28,37 +28,53 @@ struct RootView : View {
     var body: some View {
         
         NavigationStack {
+
             ZStack(alignment: .bottom){
-                
-                //ARViewContainer().edgesIgnoringSafeArea(.all)
-                
+                // Background Splash image
                 Image("splash2")
                     .resizable()
                     .edgesIgnoringSafeArea(.all)
                 
-                HStack(){
+                VStack{
+                    HStack{
+                        Spacer()
+                        // About button
+                        NavigationLink(destination: About(), label: {
+                            Image(systemName: "info.circle")
+                                .frame(width:30, height:30)
+                                .font(.title)
+                                .background(.blue.opacity(0.60))
+                                .cornerRadius(30)
+                        })
+                        
+                    }
                     
-                    // Scan for Ghosts Button
-                    NavigationLink("Scanner", destination: ScannerView())
-                        .padding()
-                        .font(.title3)
-                        .background(.white.opacity(0.60))
-                        .cornerRadius(30)
+                    Spacer()
                     
-                    // Go to Camera Button
-                    NavigationLink("Camera", destination: CameraView())
-                        .padding()
-                        .font(.title3)
-                        .background(.white.opacity(0.60))
-                        .cornerRadius(30)
-                    
-                    // Go to Setup Button
-                    NavigationLink("Setup", destination: SetupView())
-                        .padding()
-                        .font(.title3)
-                        .background(.white.opacity(0.60))
-                        .cornerRadius(30)
-                } .padding(.bottom, 30)
+                    HStack(){
+                        
+                        // Scan for Ghosts Button
+                        NavigationLink("Scanner", destination: ScannerView())
+                            .padding()
+                            .font(.title3)
+                            .background(.white.opacity(0.60))
+                            .cornerRadius(30)
+                        
+                        // Go to Camera Button
+                        NavigationLink("Camera", destination: CameraView())
+                            .padding()
+                            .font(.title3)
+                            .background(.white.opacity(0.60))
+                            .cornerRadius(30)
+                        
+                        // Go to Setup Button
+                        NavigationLink("Setup", destination: SetupView())
+                            .padding()
+                            .font(.title3)
+                            .background(.white.opacity(0.60))
+                            .cornerRadius(30)
+                    } .padding(.bottom, 30)
+                }
             }
         }
     }
