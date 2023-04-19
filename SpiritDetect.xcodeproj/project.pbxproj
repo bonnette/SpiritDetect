@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		A7036559298C15DB004AD2C4 /* DevilMask.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7036558298C15DB004AD2C4 /* DevilMask.usdz */; };
 		A7037B0E298C23EE0038BA63 /* GstLantern.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A7037B0D298C23EE0038BA63 /* GstLantern.usdz */; };
-		A703AE5F2985852B0071B23F /* ScaryPumpkin.usdz in Resources */ = {isa = PBXBuildFile; fileRef = A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */; };
 		A714C71429ED6D99002EDBA0 /* About.swift in Sources */ = {isa = PBXBuildFile; fileRef = A714C71329ED6D99002EDBA0 /* About.swift */; };
 		A736A3D8293E4B5F00EF6E04 /* Hero.aiff in Resources */ = {isa = PBXBuildFile; fileRef = A736A3D7293E4B5F00EF6E04 /* Hero.aiff */; };
 		A73AB20F298AB23100AC53F6 /* SetupData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A73AB20E298AB23100AC53F6 /* SetupData.swift */; };
@@ -27,13 +26,13 @@
 		F040912629DB2FAA00A102A4 /* SetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F040912529DB2FAA00A102A4 /* SetupView.swift */; };
 		F040912A29DB2FE100A102A4 /* dirtyghost.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F040912929DB2FE100A102A4 /* dirtyghost.usdz */; };
 		F040912C29DB2FEB00A102A4 /* ghostHoldPum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F040912B29DB2FEB00A102A4 /* ghostHoldPum.usdz */; };
+		F09749AA29F05EB00032983E /* BadUmbrella.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F09749A929F05EB00032983E /* BadUmbrella.usdz */; };
 		F0E6D3C029DC6D66000CCFD7 /* reddemon.usdz in Resources */ = {isa = PBXBuildFile; fileRef = F0E6D3BF29DC6D66000CCFD7 /* reddemon.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		A7036558298C15DB004AD2C4 /* DevilMask.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = DevilMask.usdz; sourceTree = "<group>"; };
 		A7037B0D298C23EE0038BA63 /* GstLantern.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = GstLantern.usdz; sourceTree = "<group>"; };
-		A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ScaryPumpkin.usdz; sourceTree = "<group>"; };
 		A714C71329ED6D99002EDBA0 /* About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About.swift; sourceTree = "<group>"; };
 		A736A3D7293E4B5F00EF6E04 /* Hero.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = Hero.aiff; sourceTree = "<group>"; };
 		A73AB20E298AB23100AC53F6 /* SetupData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SetupData.swift; sourceTree = "<group>"; };
@@ -52,6 +51,7 @@
 		F040912529DB2FAA00A102A4 /* SetupView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SetupView.swift; sourceTree = "<group>"; };
 		F040912929DB2FE100A102A4 /* dirtyghost.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = dirtyghost.usdz; sourceTree = "<group>"; };
 		F040912B29DB2FEB00A102A4 /* ghostHoldPum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = ghostHoldPum.usdz; sourceTree = "<group>"; };
+		F09749A929F05EB00032983E /* BadUmbrella.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = BadUmbrella.usdz; sourceTree = "<group>"; };
 		F0E6D3BF29DC6D66000CCFD7 /* reddemon.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = reddemon.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,9 +70,9 @@
 			isa = PBXGroup;
 			children = (
 				A75DAC732987F5CB00E24A6F /* GstPump.usdz */,
+				F09749A929F05EB00032983E /* BadUmbrella.usdz */,
 				A797FC9C29856E4100C962E7 /* BlueEyeGst.usdz */,
 				A797FC9E29856E6200C962E7 /* plainGst.usdz */,
-				A703AE5E2985852B0071B23F /* ScaryPumpkin.usdz */,
 				A7036558298C15DB004AD2C4 /* DevilMask.usdz */,
 				A7037B0D298C23EE0038BA63 /* GstLantern.usdz */,
 				F040912929DB2FE100A102A4 /* dirtyghost.usdz */,
@@ -201,9 +201,9 @@
 				A797FC9D29856E4100C962E7 /* BlueEyeGst.usdz in Resources */,
 				A736A3D8293E4B5F00EF6E04 /* Hero.aiff in Resources */,
 				A75DAC742987F5CB00E24A6F /* GstPump.usdz in Resources */,
-				A703AE5F2985852B0071B23F /* ScaryPumpkin.usdz in Resources */,
 				F040912C29DB2FEB00A102A4 /* ghostHoldPum.usdz in Resources */,
 				F0E6D3C029DC6D66000CCFD7 /* reddemon.usdz in Resources */,
+				F09749AA29F05EB00032983E /* BadUmbrella.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

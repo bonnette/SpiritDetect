@@ -16,7 +16,7 @@ struct SetupView: View {
     // This is to fit all of the ghosts in a segmented display
     @EnvironmentObject var setupdata: SetupData  // The selected ghost will be stored here
     let GstSelect1 = ["GstPump", "BlueEyeGst", "plainGst"] // top row of buttons
-    let GstSelect2 = ["GstLantern", "ScaryPumpkin", "DevilMask"] // Middle row of buttons
+    let GstSelect2 = ["GstLantern", "BadUmbrella", "DevilMask"] // Middle row of buttons
     let GstSelect3 = ["dirtyghost", "ghostHoldPum", "reddemon"] // Bottom row of buttons
     var body: some View {
         
