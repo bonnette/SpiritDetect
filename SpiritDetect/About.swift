@@ -34,7 +34,7 @@ struct About: View {
                     .padding(.bottom, 2)
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .font(.caption)
-                Text("'Blue Eyed Ghost' 3D Model done by Wasbossdil on sketchfab.com")
+                Text("'Blue Eyed Ghost' 3D Model provided by Wasbossdil on sketchfab.com")
                     .padding(.leading, 4)
                     .padding(.bottom, 2)
                     .frame(maxWidth: .infinity, alignment: .leading)
@@ -43,7 +43,7 @@ struct About: View {
             
             // Groups are added to get around the 10 view rule
             Group {
-                Text("'Splash screen' Ghosts 2D art done by Hansuan Fabregas on pixabay.com")
+                Text("'Splash screen' Ghosts 2D art provided by Hansuan Fabregas on pixabay.com")
                     .padding(.leading, 4)
                     .padding(.bottom, 2)
                     .frame(maxWidth: .infinity, alignment: .leading)
