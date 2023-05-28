@@ -68,7 +68,21 @@ struct About: View {
                     .padding(.bottom, 2)
                     .frame(maxWidth: .infinity, alignment: .leading)
                     .font(.caption)
-                
+                Text("'Dirty Ghost' 3D Model provided by Jenna Ward from Orlando Florida on sketchfab.com")
+                    .padding(.leading, 4)
+                    .padding(.bottom, 2)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .font(.caption)
+                Text("'Plain Ghost' 3D Model provided by No Artist Name on sketchfab.com")
+                    .padding(.leading, 4)
+                    .padding(.bottom, 2)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .font(.caption)
+                Text("'Bad Umbrella' 3D Model provided by kkxley from Russian, Sakhalin on sketchfab.com")
+                    .padding(.leading, 4)
+                    .padding(.bottom, 2)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .font(.caption)
                 Spacer()
             } // End Group 2
             
