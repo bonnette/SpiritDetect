@@ -92,3 +92,11 @@ Does anyone dare to stand next to the mask and let me take a picture?<br>
 
 *Change to the camera page. Center your subjects with the ghost and press the shutter button*<br>
 *A photo will be taken and stored in the phones photo gallery*<br>
+
+**Acknowledgments:**<br>
+
+All of the code in the app was developed by me (Larry) but I used many many many websites as reference pages to figure
+out how to accomplish each goal in my code. So, for the hard work of all of the people on the internet who took the time 
+to explain "Swift" and "Xcode" or any other iPhone programming concept. I thank you very much.<br>
+I want to also thank "pexels.com", "sketchfab.com", "pixabay.com" and "cgtrader.com" for providing repositories of 3D and 2D graphics
+content used in this app.
