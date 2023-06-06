@@ -1,17 +1,20 @@
 # Spirit Detector / Spook Camera
-The Spirit Detector application enables a user to pretend to be a Ghost Hunter.
-<br><br>
+**An Augmented reality project**<br>
+
+The Spirit Detector application uses Apples augmented reality technology to enable a user to pretend to be a Ghost Hunter.
+<br>
 The user of the app is known as the "Narrator".
 <br>
-The app is used as a prop to support a fictional story that include ghosts, spirits and other un-worldly entities.<br>
+The Narrators job is to tell a story. 
+The app is used as a prop to support the Narrators fictional story that include ghosts, spirits and other un-worldly entities.
 The app supports the "Narrator"as he pretends to scan for ghosts within a physical space utilizing the Augmented Reality capabilities of the iPhone and this app.<br>
 The "Narrator" spins a story about an entity that will eventually end up in a photo with the "Narrators" children or friend.
 The app was tested on an apple iPhone 14 pro running IOS 16.1 but may work on an iPhone 12 or newer. The phone must support Apples Augmented reality.
 The buttons in the app enable the "Narrator" to Scan, Locate, and capture a ghost or entity in a physical space on a horizontal surface.
 The app can then be used to take a photo of the ghost along with the "Narrator"s children or anyone else in the view finder.
-<br><br>
+<br>
 # When the app is first opened
-When the app is opened you are presented with the **Initial** "splash screen". 
+When the app is opened, the **Initial** splash screen appears. 
 # Scanning for ghosts<br>
 
 <div>
@@ -22,17 +25,21 @@ When the app is opened you are presented with the **Initial** "splash screen".
 </div>
 
 On the initial splash screen you are presented with three buttons.<br>
-Choosing the **Scanner** button will open a new page with a green scanner indicator.<br>
-When a spirit is located the indicator will turn red and a ghost image will be in the center of the indicator.<br>
-The "Narrator" should use this opportunity to ham it up. 
+Choosing the **Scanner** button will open a new page with a green scanner indicator. It is important that the Narrator hold the iPhone in a vertical position 
+because tilting the phone forward slightly will trigger the red 'ghost detected' scanner indicator.<br>
+During the Narrators story , When the Narrator says, 'A spirit is located' The Narrator should tilt the phone forward (about 45 degrees) which will trigger the red scanner indicator to 
+turn on indicating that a spirit has been found.<br>
+The "Narrator" should use this opportunity to embellish the story. 
 
 
 # Capturing a ghost
 
-When the **Scanner** button is pressed. The screen changes to the scanning page. This page has a single **Capture** button at the bottom. <br>
+Back to the scanning page.<br>
+The Narrator has just pressed the **Scanner** button. The screen changed to the scanning page. This page has a single **Capture** button at the bottom. <br>
 
-The "Narrator" moves the device slowly around the room. Carefully watching for the scan indicator to turn RED.
-When it turns red the "Narrater" slows down and when the time is just right.... he presses the "Capture" button.<br>
+The "Narrator" moves the device slowly around the room. Carefully watching the green scanning indicator. The Narrator is watching for the scan indicator to turn RED.
+The Narrator tilts the phone forward about 45 degrees and...
+When the scan indicator turns red the "Narrator" slows down and when the time is just right.... the Narrator presses the "Capture" button.<br>
 The "Narrator" should continue his story.<br> 
 
 At this point the capture button is replaced by a "Trash Can" and a ghost or some other entity appears in the viewfinder. The scanner is no longer visible.<br>
@@ -99,4 +106,7 @@ All of the code in the app was developed by me (Larry) but I used many many many
 out how to accomplish each goal in my code. So, for the hard work of all of the people on the internet who took the time 
 to explain "Swift" and "Xcode" or any other iPhone programming concept. I thank you very much.<br>
 I want to also thank "pexels.com", "sketchfab.com", "pixabay.com" and "cgtrader.com" for providing repositories of 3D and 2D graphics
-content used in this app.
+content used in this app.<br>
+One other acknowledgment I want to make is to "Microsoft Bing". The "Spirit Detect" app was written at the very beginning of the Chat GPT like AI era.<br>
+And, while I was writing some of this code I got stumped in a few spots. I used Bing Chat and asked it a few questions to see if it could point me in the right 
+direction. And, I was absolutly amazed at how helpful the AI bot was. So, Thank you Microsoft and all of the engineers involved in its development.
