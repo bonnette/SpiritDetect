@@ -1,5 +1,5 @@
 # Spirit Detector / Spook Camera
-**An Augmented reality project**<br>
+**An augmented reality project**<br>
 
 The Spirit Detector application uses Apples augmented reality technology to enable a user to pretend to be a Ghost Hunter.
 <br>
