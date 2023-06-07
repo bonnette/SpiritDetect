@@ -10,7 +10,7 @@ The app is used as a prop to support the Narrators fictional story that include 
 The app supports the "Narrator"as he pretends to scan for ghosts within a physical space utilizing the Augmented Reality capabilities of the iPhone and this app.<br>
 The "Narrator" spins a story about an entity that will eventually end up in a photo with the "Narrators" children or friend.
 The app was tested on an apple iPhone 14 pro running IOS 16.1 but may work on an iPhone 12 or newer. The phone must support Apples Augmented reality.
-The buttons in the app enable the "Narrator" to Scan, Locate, and capture a ghost or entity in a physical space on a horizontal surface.
+The app enables the "Narrator" to Scan, Locate, and capture a ghost or entity in a physical space on a horizontal surface.
 The app can then be used to take a photo of the ghost along with the "Narrator"s children or anyone else in the view finder.
 <br>
 # When the app is first opened
